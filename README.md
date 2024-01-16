@@ -1,0 +1,6 @@
+- 👋 Hi, I’m [@Sharanmg0242](https://github.com/Sharanmg0242)
+- 👀 I’m passionate about Full Stack Web Development.
+- 🌱 Currently, I'm honing my skills in backend development.
+- 💞️ I’m eager to collaborate with UI/UX designers to create seamless web experiences.
+- 📫 You can reach me at sharanmg38@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/sharan-m-g-223702249).
+- ⚡ Fun fact: Gonna need a kick to start or settle the things
